@@ -1,0 +1,31 @@
+﻿@model ProcessoSeleticov2.Models.ProcessosModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="text-center">
+    <h1 class="table display-4">Editar Processos</h1>
+</div>
+<hr />
+<div class="row">
+    <div>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="NomeProcesso" class="control-label"></label>
+                <input asp-for="NomeProcesso" class="form-control" />
+                <span asp-validation-for="NomeProcesso" class="text-danger"></span>
+            </div>
+            <br />
+            <div  class="form-check text-center d-grid gap-2" style="padding-left: 0px;">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

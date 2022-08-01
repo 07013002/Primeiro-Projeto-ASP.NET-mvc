@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProcessoSeleticov2
+build_property.RootNamespace = ProcessoSeleticov2
+build_property.ProjectDir = C:\Users\leonardoM\source\repos\ProcessoSeleticov2\ProcessoSeleticov2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\leonardoM\source\repos\ProcessoSeleticov2\ProcessoSeleticov2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Arquivo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJxdWl2b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Arquivo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJxdWl2b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Arquivo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJxdWl2b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Documentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Documentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Documentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Documentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Processos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Processos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Processos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Processos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvY2Vzc29zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leonardoM/source/repos/ProcessoSeleticov2/ProcessoSeleticov2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q8g72x772s

@@ -1,0 +1,48 @@
+﻿@model ProcessoSeleticov2.Models.DocumentosModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="text-center">
+    <h1 class="table display-4">Deletar Documento</h1>
+</div>
+<hr />
+<div>
+    <h4>Deletar Documentos</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Processo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Processo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <div class="form-check text-center d-grid gap-2" style="padding-left: 0px;">
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a class="btn btn-secondary btn-block" asp-action="Index" role="button">Voltar</a>
+        </div>
+    </form>
+</div>
